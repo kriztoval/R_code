@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: crcampos\nType: Package\nTitle: What the Package Does (Title Case)\nVersion: 0.1\nDate: 2015-10-23\nAuthor: Who wrote it\nMaintainer: Who to complain to <yourfault@somewhere.net>\nDescription: More about what it does (maybe more than one line)\nLicense: What license is it under?\nLazyData: TRUE\nImports: \n    Rcpp (>= 0.12.1)\nLinkingTo: \n    Rcpp",
+    "created" : 1445615307444.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4217626631",
+    "id" : "58832858",
+    "lastKnownWriteTime" : 1445615113,
+    "path" : "~/GitHub/R_code/crcampos/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "dcf"
+}
